@@ -1,6 +1,6 @@
 - hi, I’m Anna 
 - I’m interested in software development & design
-- I’m currently learning Java Script and React.js
+- I’m currently learning Ruby and imporving React.js
 - I’m looking to collaborate on JS applications
 - my LinkedIn: https://www.linkedin.com/in/anna-vasileva-/
 - fun fact: I've learned Japanese for 4 years
